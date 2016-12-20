@@ -27,7 +27,7 @@ description:         >
   Firebase Camp is a collection of articles, tutorials and code related to the development of mobile web apps using Firebase v3.
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [firebase, react]
+sidebar_tags:        [firebase, react, polymer, android]
 
 # Fallback image and color if not overwritten for tag or post
 image:               ./public/img/camp.jpg
