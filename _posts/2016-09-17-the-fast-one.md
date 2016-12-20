@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'v5: The Fast One'
-tags: [react]
+tags: [android]
 description: >
   This release dramatically increases page load speed which matters to Google and visitors with slow connections alike.
 ---
