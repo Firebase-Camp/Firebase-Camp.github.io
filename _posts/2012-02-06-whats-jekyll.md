@@ -2,7 +2,7 @@
 layout: post
 title: What's Firebase?
 tags: [firebase]
-image: http://qwtel.com/hydejack/public/img/hyde.jpg
+image: /public/img/camp.jpg
 color: '#949667'
 ---
 

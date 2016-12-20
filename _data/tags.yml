@@ -13,14 +13,28 @@
 
 react:
   name: React
-  image: /public/img/hyde.jpg
-  color: '#949667'
+  image: /public/img/react.jpg
+  color: '#00d8ff'
   description: >
     React is a JavaScript library for building interactive user interfaces painlessly. React is currently developed by Facebook.
 
+polymer:
+  name: Polymer
+  image: /public/img/polymer.jpg
+  color: '#949667'
+  description: >
+    Polymer is a JavaScript library that unlocks the power of web components in browsers today and provides tools & components to build amazing user experiences for the modern web. It is currently developed by Google.
+
+android:
+  name: Android
+  image: /public/img/android.jpg
+  color: '#949667'
+  description: >
+    Android is an open-source operating system for mobile devices based on Linux and Java. It is currently developed by Google.
+
 firebase:
   name: Firebase
-  image: /public/img/jekyll.jpg
+  image: /public/img/firebase.jpg
   color: '#949667'
   description: >
     Firebase is a platform for supporting development, engagement and monetization of mobile web apps. Firebase is currently developed by Google.

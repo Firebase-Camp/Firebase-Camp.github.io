@@ -30,7 +30,7 @@ description:         >
 sidebar_tags:        [firebase, react]
 
 # Fallback image and color if not overwritten for tag or post
-image:               ./public/img/nap.jpg
+image:               ./public/img/camp.jpg
 color:               '#A85641'
 
 # Fonts
