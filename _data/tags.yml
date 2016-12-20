@@ -34,7 +34,7 @@ android:
 
 firebase:
   name: Firebase
-  image: /public/img/firebase.jpg
+  image: /public/img/camp.jpg
   color: '#FFC107'
   description: >
     Firebase is a platform for supporting development, engagement and monetization of mobile web apps. Firebase is currently developed by Google.
