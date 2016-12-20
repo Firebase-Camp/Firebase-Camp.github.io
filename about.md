@@ -17,5 +17,4 @@ I am currently a software architect and consultant primarily focused on developi
 
 I founded the Google Developer Group (GDG) in [Hudson Valley](https://www.meetup.com/gdg-hudson-valley/) and co-organize the GDG chapter in [New York City](https://www.meetup.com/gdgnyc/). Our focus here is on applied learning as it relates to emerging technologies in areas like machine learning, cloud computing, wearables, Android, progressive web apps, Internet of Things, analytics, smart assistants, cryptocurrency and more. I'm also the core organizer on [Android Camp](https://androidcamp.splashthat.com/) held in July 2016 as part of [Open Camps](http://opencamps.org/team.html) at the UN, and [DevFest NYC](http://devfestnyc.com), a 2-day developer conference in NYC.
 
-You can find out more about me on [LinkedIn](http://www.linkedin.com/in/nityan), follow me on [Twitter](http://www.twitter.com/nitya) or message me via [Meetup](https://www.meetup.com/gdgnyc/members/11387669/)
 
